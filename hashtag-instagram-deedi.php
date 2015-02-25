@@ -7,11 +7,11 @@
 		<title>Sha &amp; Neto</title>
 
 		<!-- Pace Loader -->
-		<script src="js/pace.min.js"></script>
+		<script src="js/libs/pace.min.js"></script>
   		<link href="css/pace.css" rel="stylesheet" />
 
 		<!-- Bootstrap -->
-		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/libs/bootstrap.css" rel="stylesheet">
 
 		<!-- Emoji -->
 		<link href="emoji/emoji.css" rel="stylesheet">
@@ -20,13 +20,13 @@
 		<link href="css/style.css" rel="stylesheet">
 
 		<!-- Owl Carousel stylesheet -->
-		<link href="css/owl.carousel.css" rel="stylesheet">
+		<link href="css/libs/owl.carousel.css" rel="stylesheet">
 
 		<!-- Owl Carousel Default Theme -->
-		<link href="css/owl.theme.css" rel="stylesheet">
+		<link href="css/libs/owl.theme.css" rel="stylesheet">
 
 		<!-- Fancybox -->
-		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/libs/jquery.fancybox.css" rel="stylesheet">
 
 		<!-- Google Fonts -->
 		<link href="http://fonts.googleapis.com/css?family=PT+Serif%7CEngagement%7COpen+Sans:800" rel="stylesheet">
@@ -107,25 +107,25 @@
 		<!-- ========== FOOTER END ========== -->
 
 		<!-- Modernizr Plugin -->
-		<script src="js/modernizr.custom.97074.js"></script>
+		<script src="js/libs/modernizr.custom.97074.js"></script>
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/libs/jquery-1.10.2.min.js"></script>
 
 		<!-- Bootstrap Plugins -->
-		<script src="js/bootstrap.min.js"></script>
+		<script src="js/libs/bootstrap.min.js"></script>
 
 		<!-- Retina Plugin -->
-		<script src="js/retina-1.1.0.min.js"></script>
+		<script src="js/libs/retina-1.1.0.min.js"></script>
 
 		<!-- Owl Carousel Plugin -->
-		<script src="js/owl.carousel.js"></script>
+		<script src="js/libs/owl.carousel.js"></script>
 
 		<!-- Fancybox Plugin -->
-		<script src="js/jquery.fancybox.js"></script>
+		<script src="js/libs/jquery.fancybox.js"></script>
 
 		<!-- Scroll Reveal Plugin -->
-		<script src="js/scrollReveal.js"></script>
+		<script src="js/libs/scrollReveal.js"></script>
 
 		<!-- jQuery Settings -->
 		<script src="js/settings-inner.js"></script>

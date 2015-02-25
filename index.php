@@ -7,11 +7,11 @@
 		<title>Sha &amp; Neto</title>
 
 		<!-- Pace Loader -->
-		<script src="js/pace.min.js"></script>
+		<script src="js/libs/pace.min.js"></script>
   		<link href="css/pace.css" rel="stylesheet" />
 
 		<!-- Bootstrap -->
-		<link href="css/bootstrap.css" rel="stylesheet">
+		<link href="css/libs/bootstrap.css" rel="stylesheet">
 
 		<!-- Emoji -->
 		<link href="emoji/emoji.css" rel="stylesheet">
@@ -26,13 +26,13 @@
 		<link href="css/countdown.css" rel="stylesheet">
 
 		<!-- Owl Carousel stylesheet -->
-		<link href="css/owl.carousel.css" rel="stylesheet">
+		<link href="css/libs/owl.carousel.css" rel="stylesheet">
 
 		<!-- Owl Carousel Default Theme -->
-		<link href="css/owl.theme.css" rel="stylesheet">
+		<link href="css/libs/owl.theme.css" rel="stylesheet">
 
 		<!-- Fancybox -->
-		<link href="css/jquery.fancybox.css" rel="stylesheet">
+		<link href="css/libs/jquery.fancybox.css" rel="stylesheet">
 
 		<!-- Google Fonts -->
 		<link href="http://fonts.googleapis.com/css?family=PT+Serif%7CEngagement%7COpen+Sans:800" rel="stylesheet">
@@ -66,10 +66,10 @@
 			</div>
 			<div class="tint">
 				<div class="welcome text-center" data-scroll-reveal="enter from the top after 2s">
-					<h1>Shallaka &amp; Neto</h1>
+					<h1>Diana &amp; Andr&eacute;</h1>
 					<p>n&oacute;s vamos nos casar</p>
 					<p><span></span><i class="fa fa-heart"></i><span></span></p>
-					<p>23 de dezembro de 2014</p>
+					<p>29 de outubro de 2015</p>
 				</div>
 			</div>
 			<div class="countdown" data-scroll-reveal="enter from the bottom after 2.5s"></div>
@@ -111,26 +111,26 @@
 			<div class="container text-center">
 				<div class="row">
 					<div class="col-sm-12 heading" data-scroll-reveal>
-						<h2>Os Noivos</h2>
+						<h2>Ele &amp; Ela</h2>
 						<p><span></span><i class="fa fa-heart"></i><span></span></p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-sm-6" data-scroll-reveal="enter from the left">
 						<img src="images/about1.jpg" class="img-responsive img-circle" alt="" width="270" height="270" />
-						<h5>Waldinar Neto</h5>
+						<h5>Andr&eacute; Casimiro</h5>
 						<p>A tampa</p>
 						<ul class="social-icons">
-							<li><a href="https://www.facebook.com/waldinar.neto" target="_blank"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://www.facebook.com/ah.casimiro" target="_blank"><i class="fa fa-facebook"></i></a></li>
 						</ul>
 						<div class="mobile-divider"><span></span><i class="fa fa-heart"></i><span></span></div>
 					</div>
 					<div class="col-sm-6" data-scroll-reveal="enter from the right after 0.5s">
 						<img src="images/about2.jpg" class="img-responsive img-circle" alt="" width="270" height="270" />
-						<h5>Shallaka</h5>
+						<h5>Diana Yamashiro</h5>
 						<p>e a panela</p>
 						<ul class="social-icons">
-							<li><a href="https://www.facebook.com/shallaka" target="_blank"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="https://www.facebook.com/diana.yamashiro" target="_blank"><i class="fa fa-facebook"></i></a></li>
 						</ul>
 					</div>
 				</div>
@@ -422,47 +422,47 @@
 		<!-- ========== FOOTER END ========== -->
 
 		<!-- Modernizr Plugin -->
-		<script src="js/modernizr.custom.97074.js"></script>
+		<script src="js/libs/modernizr.custom.97074.js"></script>
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="js/jquery-1.10.2.min.js"></script>
+		<script src="js/libs/jquery-1.10.2.min.js"></script>
 
 		<!-- Bootstrap Plugins -->
-		<script src="js/bootstrap.min.js"></script>
+		<script src="js/libs/bootstrap.min.js"></script>
 
 		<!-- Retina Plugin -->
-		<script src="js/retina-1.1.0.min.js"></script>
+		<script src="js/libs/retina-1.1.0.min.js"></script>
 
 		<!-- Superslides Plugin -->
-		<script src="js/jquery.easing.1.3.js"></script>
-		<script src="js/jquery.animate-enhanced.min.js"></script>
-		<script src="js/jquery.superslides.js"></script>
+		<script src="js/libs/jquery.easing.1.3.js"></script>
+		<script src="js/libs/jquery.animate-enhanced.min.js"></script>
+		<script src="js/libs/jquery.superslides.js"></script>
 
 		<!-- Countdown Plugin -->
-		<script src="js/jquery.plugin.min.js"></script>
-		<script src="js/jquery.countdown.min.js"></script>
+		<script src="js/libs/jquery.plugin.min.js"></script>
+		<script src="js/libs/jquery.countdown.min.js"></script>
 
 		<!-- Scrolly Plugin -->
-		<script src="js/jquery.scrolly.js"></script>
+		<script src="js/libs/jquery.scrolly.js"></script>
 
 		<!-- CountTo Plugin -->
 		<script src="js/jquery.countTo.js"></script>
 
 		<!-- Owl Carousel Plugin -->
-		<script src="js/owl.carousel.js"></script>
+		<script src="js/libs/owl.carousel.js"></script>
 
 		<!-- Fancybox Plugin -->
-		<script src="js/jquery.fancybox.js"></script>
+		<script src="js/libs/jquery.fancybox.js"></script>
 
 		<!-- Scroll Reveal Plugin -->
-		<script src="js/scrollReveal.js"></script>
+		<script src="js/libs/scrollReveal.js"></script>
 
 		<!-- jQuery Settings -->
 		<script src="js/settings.js"></script>
 
-		<script src="js/angular.min.js"></script>
-		<script src="js/angular-route.min.js"></script>
-		<script src="js/angular-sanitize.min.js"></script>
+		<script src="js/libs/angular.min.js"></script>
+		<script src="js/libs/angular-route.min.js"></script>
+		<script src="js/libs/angular-sanitize.min.js"></script>
 		<script src="js/controller.js"></script>
 
 		<?php include_once("analyticstracking.php") ?>
