@@ -13,6 +13,7 @@
 
 body {
 	overflow-x: hidden;
+	color: #00052E;
 }
 
 .inner {
@@ -23,19 +24,22 @@ h1 {
 	color: #fff;
 	font-family: 'Engagement', cursive;
 	font-weight: normal;
+	color: #00052E;
 	margin: 0;
 }
 
 h2 {
 	font-family: 'Engagement', cursive;
 	font-weight: normal;
+	color: #00052E;
 	margin: 0;
 }
 
 h3,h4,h5,h6 {
-	margin: 3em 0;
+	margin: 1em 0;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
+	color: #00052E;
 }
 
 h6 {
@@ -75,7 +79,7 @@ section {
 	font-family: "Open Sans", sans-serif;
 	letter-spacing: 0.3em;
 	text-transform: uppercase;
-}
+}Eng
 
 .btn-lg {
 	font-size: 1em;
@@ -106,28 +110,36 @@ section {
 	display: block;
 	margin: 0 auto;
 	position: absolute;
-	top:33%;
+	top:15%;
 	width: 100%;
-	-webkit-transform: translateY(-33%);
-	-moz-transform: translateY(-33%);
-	-ms-transform: translateY(-33%);
-	-o-transform: translateY(-33%);
-	transform: translateY(-33%);
+	text-shadow: 1px 1px 2px #333;
 }
 
 .welcome p {
 	font-size: 18px;
-	letter-spacing: 0.4em;
 	margin: 0;
+}
+
+.welcome p.data-do-casamento {
+	letter-spacing: 0.2em;
 	text-transform: uppercase;
 }
 
-.welcome span {
-	border: 0;
+.welcome .fa-heart { color: #00052e }
+.welcome .traco {
+	width: 5em;
 	border-top: 1px solid #fff;
 	display: inline-block;
 	margin: 6px 10px;
-	width: 150px;
+	background: red;
+}
+
+.welcome .referencia { color: yellow }
+
+.welcome span {
+	/*background: rgba(0, 0, 0, 0.62);*/
+	border: 0;
+	padding: 0 0.2em;
 }
 
 .welcome i {
@@ -152,6 +164,13 @@ section {
 .navbar {
 	border-radius: 0;
 	text-transform: uppercase;
+	background: #00052E;
+	min-height: 60px;
+	height: 60px;
+}
+
+.navbar-nav > li > a {
+	padding: 18px 1.5em;
 }
 
 .navbar.fixed {
@@ -164,8 +183,14 @@ section {
 
 .navbar-brand {
 	padding: 20px 15px;
-	font-size: auto;
+	font-size: 30px;
 	line-height: auto;
+	font-family: 'Engagement', cursive;
+	text-transform: none;
+}
+
+.gold {
+	color: #cfb300;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -280,21 +305,43 @@ section {
 	color: #819AB0;
 }
 
-/* PEOPLE & ACCOMMODATION
+/* PADRINHOS
 =========================================================================================*/
 
-#people h5,
-#accommodation h5 {
-	margin: 0 0 8px;
+#padrinhos .row {
+	margin-bottom: 30px;
+	border: 2px yellow;
 }
 
-#people h6,
-#accommodation h6 {
-	margin: 0 0 15px;
+#padrinhos .testimony {
+	background: rgba(0, 5, 46, 0.7);
+	position: absolute;
+	bottom: 0;
+	width: 360px;
+	height: 48px;
+	overflow: hidden;
 }
 
-.row-margin {
-	margin-bottom: 60px;
+#padrinhos .testimony img {
+	width: 360px;
+}
+
+#padrinhos .testimony p {
+	color: #fff;
+	text-align: justify;
+	padding: 0 1em;
+}
+
+#padrinhos .testimony h4 {
+	color: #fff;
+	padding: 15px;
+	margin: 0;
+}
+
+#padrinhos .testimony h4 i {
+	position: absolute;
+	right: 5px;
+	top: 15px;
 }
 
 /* EVENTS & BLOG

@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="Casamento de Shallaka &amp; Neto">
-		<title>Sha &amp; Neto</title>
+		<meta name="description" content="Casamento de Diana &amp; Andr&eacute;">
+		<title>Diana &amp; Andr&eacute;</title>
 
 		<!-- Pace Loader -->
 		<script src="js/libs/pace.min.js"></script>
@@ -93,7 +93,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#os-noivos">Os Noivos</a></li>
 						<li><a href="#confirmar-presenca">Confirmar Presen&ccedil;a</a></li>
-						<li><a href="#onde-acontecera">Onde Acontacerá</a></li>
+						<li><a href="#onde-acontecera">Local</a></li>
 						<li><a href="#nossas-fotos">Fotos</a></li>
 						<li><a href="lista-de-presentes">Lista de Presentes</a></li>
 						<li><a href="mensagem-aos-noivos">Mensagem aos Noivos</a></li>
@@ -465,6 +465,5 @@
 		<script src="js/libs/angular-sanitize.min.js"></script>
 		<script src="js/controller.js"></script>
 
-		<?php include_once("analyticstracking.php") ?>
 	</body>
 </html>

@@ -25,7 +25,7 @@
 				var t= window.location.hash;
 				var t=t.length&&t||$('[name='+t.slice(1)+']');
 				if(t.length){
-					var tOffset=($(t).offset().top - 92);
+					var tOffset=($(t).offset().top);
 					$('html,body').animate({scrollTop:tOffset},'slow');
 					return false;
 				}
